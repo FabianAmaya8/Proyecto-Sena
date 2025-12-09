@@ -18,7 +18,7 @@ Ficha: **2925960**
 
 **[Consulta el plan de estudio aquí](https://drive.google.com/file/d/1x2NVogsPA4zHmv9hV8FA7alXkbPPkXue/view?usp=drive_link)**
 
-### Diapositivas 
+### Contenido de Drive
 
 <ol>
     <li><a href="https://docs.google.com/presentation/d/19yU-RkcozXCZMgoNIJIaGRPVdYhKO66X/edit?usp=drive_link&ouid=118211538428144391195&rtpof=true&sd=true">Presentación 2DO Trimestre</a></li>
@@ -28,6 +28,7 @@ Ficha: **2925960**
             <li><a href="https://github.com/FabianAmaya8/Maqueta-HGW">Prototipo navegable</a></li>
         </ul>
     </li>
+    <li><a href="https://drive.google.com/drive/folders/12lHDS0UbOA_mOjNXripHP0mB4V-MHlPX?usp=drive_link">Presentación 7MO Trimestre</a></li>
 </ol>
 
 --- 
